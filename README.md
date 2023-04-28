@@ -17,3 +17,5 @@ But wait, there's more! We're not just creating any ordinary S3 bucket. We're ma
 So, what are you waiting for? Join me on this adventure as we learn together how to create an AWS S3 bucket with Terraform. Together, we'll explore the exciting world of cloud infrastructure and take our first step towards becoming cloud experts.
 
 Thank you for joining me, and let's get started! 😇
+
+![Blank diagram AWS for LOGO - Page 7](https://user-images.githubusercontent.com/114596788/235124651-92f75243-7b39-465a-8237-683d744342f0.png)
